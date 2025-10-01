@@ -28,13 +28,3 @@ Passo a passo:
 <img width="258" height="25" alt="Captura de tela 2025-10-01 192358" src="https://github.com/user-attachments/assets/53ac9a30-5aad-4ec8-91c6-8735f0c6f551" />
 
 O seu site estar disponível para outras pessoas ou não, vai depender totalmente das suas configurações de rede utilizadas, na máquina virtual ou na máquina fisíca, e vai depender também do ambiente de rede que você vai estar, se ele é público, privado, etc...
-
-
-
-
-
-
-
-
-
-- 
