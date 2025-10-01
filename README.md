@@ -1,4 +1,5 @@
 dio-cibersecurity-siteclone
+
 Clonagem de sites no Kali Linux utilizando Setoolkit
 
 Nos meus testes não consegui replicar a atividade igual a da aula, tive divergências na prática. Imagino que sites com Facebook e outros tenham mudado seus metódos de segurança e a clonagem não é 100% perfeita, digo isso pois não consegui capturar o campo de senha, apenas o campo do e-mail. Quando usei os templates prontos da própria ferramenta obtive o resultado esperado. Ao tentar usar no X (Antigo Twiiter)e também não consegui, a clonagem do site acontece com perfeição porém não existem campos de autenticação na própria plataforma. Dito isso, esse documento serve apenas para mostrar um teste totalmente sintético.
